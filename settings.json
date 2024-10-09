@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp",
+        "editor.defaultFoldingRangeProvider": "ms-dotnettools.csharp"
+    },
+    "editor.snippetSuggestions": "top",
+    "git.openRepositoryInParentFolders": "never"
+}
